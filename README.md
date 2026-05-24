@@ -1,8 +1,6 @@
 # Candidatura – Prácticas en Mecatrónica y Prototipado
 Estimado equipo de NOVAINDEF,
 
-Me gustaría expresar mi interés en la oferta de prácticas en Mecatrónica y Prototipado en el centro CESFARE de Rota.
-
 Actualmente me encuentro finalizando el grado en Ingeniería Electrónica, Robótica y Mecatrónica, y he orientado mi formación hacia el desarrollo de sistemas reales, combinando electrónica, software y diseño mecánico. Me considero un perfil “maker”, con especial motivación por llevar ideas desde el diseño hasta un prototipo funcional.
 
 A lo largo de mi formación he desarrollado múltiples proyectos prácticos, entre los que destacan:
