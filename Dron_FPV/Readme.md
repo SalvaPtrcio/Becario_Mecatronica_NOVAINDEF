@@ -11,3 +11,5 @@ Este proyecto destaca por la integración completa de:
 - Comunicaciones RF (control y vídeo)
 - Montaje y soldadura de hardware
 - Configuración de sistemas de vuelo reales
+
+![video](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/18ce5c0ace31db0da37251efbdb03b9fbd72ea1a/Dron_FPV/despegue.mp4)
