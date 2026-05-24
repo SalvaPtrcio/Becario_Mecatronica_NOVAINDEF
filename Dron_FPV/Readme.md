@@ -12,4 +12,4 @@ Este proyecto destaca por la integración completa de:
 - Montaje y soldadura de hardware
 - Configuración de sistemas de vuelo reales
 
-![video](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/18ce5c0ace31db0da37251efbdb03b9fbd72ea1a/Dron_FPV/despegue.mp4)
+![foto](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/62531ca2093378d1d97b9f18003bb8f654626f0a/Dron_FPV/foto_montando_dron.jpeg)
