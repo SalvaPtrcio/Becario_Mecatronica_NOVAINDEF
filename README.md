@@ -2,7 +2,7 @@
 Estimado equipo de NOVAINDEF,
 
 Actualmente me encuentro finalizando el grado en Ingeniería Electrónica, Robótica y Mecatrónica, y he orientado mi formación hacia el desarrollo de sistemas reales, combinando electrónica, software y diseño mecánico. Me considero un perfil “maker”, con especial motivación por llevar ideas desde el diseño hasta un prototipo funcional.
-![imagen](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/09e38ac12c469efc7d92f7252a47b70e86de22f4/Brazo_Rob%C3%B3tico/brazo1.jpeg)
+
 A lo largo de mi formación he desarrollado múltiples proyectos prácticos, entre los que destacan:
 
 - Construcción completa de un dron FPV, incluyendo soldadura, integración de sistemas de radiofrecuencia (control y vídeo), GPS (Betaflight) y electrónica de potencia (baterías y gestión).
