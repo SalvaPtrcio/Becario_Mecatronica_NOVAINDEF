@@ -21,4 +21,5 @@ Adjunto mi CV y portfolio con ejemplos de proyectos desarrollados.
 Muchas gracias por su tiempo y consideración.
 
 Un cordial saludo,
+
 Salvador Patricio. 
