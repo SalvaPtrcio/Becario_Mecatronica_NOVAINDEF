@@ -11,7 +11,7 @@ A lo largo de mi formación he desarrollado múltiples proyectos prácticos, ent
 - Desarrollo de sistemas IoT con ESP32 y bases de datos, así como experiencia en FPGA y sistemas embebidos.
 - Experiencia en diseño CAD (SolidWorks), impresión 3D y prototipado.
 
-Además, tengo conocimientos en integración de sensores (IMU, GPS, cámaras), y electrónica de potencia (baterías), alineados con los requisitos del puesto.
+Además acutalmente formo parte del equipo de robótica avanzada de la universidad de málaga (STAR) donde he podido contribuir de manera activa a diversos proyectos orientados a competiciones de robótica de rescate. 
 
 Me motiva especialmente la oportunidad de trabajar en un entorno donde se integran fabricación avanzada, robótica y sistemas reales, y considero que puedo aportar un perfil práctico, proactivo y orientado a resultados.
 
