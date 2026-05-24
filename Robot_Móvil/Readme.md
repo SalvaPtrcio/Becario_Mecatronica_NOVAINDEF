@@ -18,3 +18,5 @@ Este proyecto destaca por:
 - Integración completa de electrónica, control y mecánica
 - Programación embebida en tiempo real
 - Desarrollo de algoritmos de navegación reactiva
+
+![imagen](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/753df4c6cd2be596cf237e4a6c420a7d491e3721/Robot_M%C3%B3vil/robot_movil3.jpeg)
