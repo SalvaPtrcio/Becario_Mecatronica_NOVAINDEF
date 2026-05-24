@@ -18,3 +18,5 @@ Este proyecto demuestra capacidades en:
 - Integración de hardware heterogéneo
 - Sistemas distribuidos con ROS2
 - Comunicaciones industriales (CAN)
+
+![imagen](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/89bc0b6598af33b11128358843498373c4696d70/Brazo_Rob%C3%B3tico/brazo1.jpeg)
