@@ -1,7 +1,4 @@
 # Candidatura – Prácticas en Mecatrónica y Prototipado
-Estimado equipo de NOVAINDEF,
-
-Actualmente me encuentro finalizando el grado en Ingeniería Electrónica, Robótica y Mecatrónica, y he orientado mi formación hacia el desarrollo de sistemas reales, combinando electrónica, software y diseño mecánico. Me considero un perfil “maker”, con especial motivación por llevar ideas desde el diseño hasta un prototipo funcional.
 
 A lo largo de mi formación he desarrollado múltiples proyectos prácticos, entre los que destacan:
 
@@ -16,10 +13,3 @@ Además acutalmente formo parte del equipo de robótica avanzada de la universid
 
 Me motiva especialmente la oportunidad de trabajar en un entorno donde se integran fabricación avanzada, robótica y sistemas reales, y considero que puedo aportar un perfil práctico, proactivo y orientado a resultados.
 
-Adjunto mi CV y portfolio con ejemplos de proyectos desarrollados.
-
-Muchas gracias por su tiempo y consideración.
-
-Un cordial saludo,
-
-Salvador Patricio. 
