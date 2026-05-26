@@ -11,5 +11,5 @@ A lo largo de mi formación he desarrollado múltiples proyectos prácticos, ent
 
 Además acutalmente formo parte del equipo de robótica avanzada de la universidad de málaga (STAR) donde he podido contribuir de manera activa a diversos proyectos orientados a competiciones de robótica de rescate. 
 
-Me motiva especialmente la oportunidad de trabajar en un entorno donde se integran fabricación avanzada, robótica y sistemas reales, y considero que puedo aportar un perfil práctico, proactivo y orientado a resultados.
+Me motiva especialmente la oportunidad de trabajar en un entorno donde se integran fabricación avanzada, mecatrónica y sistemas reales, y considero que puedo aportar un perfil práctico, proactivo y orientado a resultados.
 
