@@ -10,6 +10,6 @@ Este proyecto destaca por la integración completa de:
 - Electrónica de potencia (LiPo, ESCs)
 - Comunicaciones RF (control y vídeo)
 - Montaje y soldadura de hardware
-- Configuración de sistemas de vuelo reales
+- Configuración de sistemas de vuelo reales (PID)
 
 ![foto](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/62531ca2093378d1d97b9f18003bb8f654626f0a/Dron_FPV/foto_montando_dron.jpeg)
