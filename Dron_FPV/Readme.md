@@ -12,6 +12,6 @@ Este proyecto destaca por la integración completa de:
 - Montaje y soldadura de hardware
 - Configuración de sistemas de vuelo reales (PID)
 
-Por razones de restriciones de peso de archivos en GitHub, se han subido fragmentos de video del vuelo del dron. 
+Por restriciones de peso de archivos en GitHub, se han subido fragmentos de video del vuelo del dron. 
 
 ![foto](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/62531ca2093378d1d97b9f18003bb8f654626f0a/Dron_FPV/foto_montando_dron.jpeg)
