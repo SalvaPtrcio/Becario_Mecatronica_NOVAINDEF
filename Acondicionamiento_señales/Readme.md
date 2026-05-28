@@ -17,3 +17,5 @@ Este proyecto destaca por:
 - Adquisición de datos en tiempo real
 - Integración hardware-software
 - Desarrollo de interfaces en LabVIEW
+
+![imagen](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/94df3a910b3db22a327d75bfc4b80f69a2a5d772/Acondicionamiento_se%C3%B1ales/balanza.jpeg)
