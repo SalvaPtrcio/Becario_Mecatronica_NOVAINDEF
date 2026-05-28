@@ -6,7 +6,7 @@ A lo largo de mi formación he desarrollado múltiples proyectos prácticos, ent
 - Desarrollo de un robot móvil diferencial con capacidades de teleoperación, navegación y esquiva de obstáculos.
 - Diseño e implementación de un brazo robótico de 6 grados de libertad como TFG, programado íntegramente en ROS2 (C++) y comunicación mediante bus CAN.
 - Desarrollo de sistemas IoT con ESP32 y bases de datos, así como experiencia en FPGA y sistemas embebidos.
-- Instrumentación y acondicionamiento de señales.
+- Instrumentación y acondicionamiento de señales (LabVIEW)
 - Experiencia en diseño CAD (SolidWorks), impresión 3D y prototipado.
 
 Además acutalmente formo parte del equipo de robótica avanzada de la universidad de málaga (STAR) donde he podido contribuir de manera activa a diversos proyectos orientados a competiciones de robótica de rescate. 
