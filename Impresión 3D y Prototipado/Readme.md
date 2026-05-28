@@ -19,5 +19,7 @@ Este proyecto destaca por:
 - Conocimiento de procesos de impresión 3D (FDM)
 - Enfoque en prototipado rápido
 
-
+<img src="Impresi%C3%B3n%203D%20y%20Prototipado/Impresora3d.jpeg" width="400">
 ![image](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/d1d66e1ef0dcae6934294a4dfa8381f05a003a4c/Impresi%C3%B3n%203D%20y%20Prototipado/Impresora3d.jpeg)
+
+https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/94a35b8b18bc3937127437b2cef135ec46bc72e6/Impresi%C3%B3n%203D%20y%20Prototipado/Pieza_Impresa.jpeg
