@@ -20,3 +20,4 @@ Este proyecto destaca por:
 - Enfoque en prototipado rápido
 
 
+![image](https://github.com/SalvaPtrcio/Becario_Mecatronica_NOVAINDEF/blob/d1d66e1ef0dcae6934294a4dfa8381f05a003a4c/Impresi%C3%B3n%203D%20y%20Prototipado/Impresora3d.jpeg)
